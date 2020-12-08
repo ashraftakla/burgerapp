@@ -1,19 +1,37 @@
 li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+  padding: 10px;
+  margin: 10px;
+  background: #25b825;
+  border-style: double;
+  border-width: 10px;
 }
 
 .label {
   font-weight: bold;
+  font-size: large;
 }
 
 .create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+  padding: 10px;
+  margin: 10px;
+  background: rgb(255, 145, 0);
 }
 
 .form-group {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  border-style: double;
+  border-color: rgb(226, 13, 13);
+  border-width: 10px;
+  padding-left: 10px;
+  margin-left: 425px;
+  width: 30%;
+}
+.add-burger {
+  margin-bottom: 10px;
+  border-style: solid;
+  border-color: rgb(19, 16, 16);
+  border-width: 10px;
+  padding-left: 0px;
+  margin-left: 425px;
+  width: 5%;
 }

@@ -1,1 +1,1 @@
-# burgerapp
+Application is designed to where you can add burgers, and indicate whether they have been devoured or not. Application was built using Express, Handlebars, and MySQL. 
